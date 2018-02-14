@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">listImageview</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="index1">index1</string>
+    <string name="index2">index2</string>
+    <string name="index3">index3</string>
+    <string name="index4">index4</string>
+
+</resources>
